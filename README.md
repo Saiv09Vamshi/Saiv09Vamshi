@@ -1,11 +1,22 @@
-- 👋 Hi, I’m @Saiv09Vamshi
-- 👀 I’m interested in Data Engineering, Software Developer, Cloud
-- 🌱 I’m currently learning Data Engineering and Cloud Technologies
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me at: saivamshi.palakurthi09@gmail.com
+# Hi, I'm Sai Vamshi 👋
 
+💻 Data Engineer focused on building scalable, reliable, and analytics-ready data platforms.
 
-<!---
-Saiv09Vamshi/Saiv09Vamshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔹 Experienced with Python, SQL, PySpark, Apache Spark, Airflow, dbt, and distributed data processing  
+☁️ Working across AWS, Azure, Databricks, Snowflake, and modern lakehouse architectures  
+📊 Interested in ETL/ELT pipelines, data modeling, data quality, orchestration, and performance optimization  
+🏗️ Hands-on experience with Medallion Architecture, Apache Iceberg, data warehouses, and cloud-based data pipelines  
+🚀 Continuously exploring modern Data Engineering, Cloud, AI-assisted engineering, and scalable data systems
+
+### 🛠 Tech Stack
+
+**Languages:** Python • SQL • Bash  
+**Data Engineering:** Spark • PySpark • Airflow • dbt • Apache Flink • REST APIs  
+**Cloud:** AWS • Azure  
+**Platforms:** Databricks • Snowflake • Apache Iceberg  
+**DevOps:** Git • CI/CD • Terraform • Jenkins • Docker  
+**Analytics:** Power BI • Tableau
+
+### 📫 Connect with me
+
+📧 Email: saivamshi.palakurthi22@gmail.com  
